@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">HyperTube Pad</string>
+    <string name="subtitle_hyperos">HyperOS 3 • 16:10 Focus Studio</string>
+    <string name="omnibar_placeholder">Paste YouTube link (watch?v=, youtu.be/, live/, embed/)…</string>
+    <string name="action_paste_and_watch">Paste &amp; Watch</string>
+    <string name="action_load_video">Load Video</string>
+    <string name="super_island_clipboard_detected">YouTube link detected in clipboard</string>
+    <string name="super_island_watch_now">Watch Now</string>
+    <string name="super_island_dismiss">Dismiss</string>
+    <string name="nav_studio">Studio</string>
+    <string name="nav_library">Library</string>
+    <string name="nav_notes">Notes</string>
+    <string name="nav_control_center">Control</string>
+    <string name="tab_study_notes">Study Notes</string>
+    <string name="tab_saved_queue">Saved Queue</string>
+    <string name="note_input_placeholder">Write a study note pinned to current timestamp…</string>
+    <string name="action_add_note">Save Note</string>
+    <string name="action_zen_mode">Zen Cinema</string>
+    <string name="action_exit_zen_mode">Exit Zen</string>
+    <string name="control_center_title">HyperOS 3 Control Center</string>
+    <string name="theme_mode_auto">Auto</string>
+    <string name="theme_mode_light">Porcelain Light</string>
+    <string name="theme_mode_dark">Obsidian Dark</string>
+    <string name="ambient_glow_label">Ambient Thumbnail Glow</string>
+    <string name="clipboard_detect_label">Super-Island Clipboard Auto-Detect</string>
+    <string name="loop_playback_label">Loop Current Video</string>
+    <string name="empty_notes_title">No Timestamped Notes Yet</string>
+    <string name="empty_notes_subtitle">Capture insights, formulas, or timestamps as you watch. Tap any timecode badge to jump straight to that moment.</string>
+    <string name="empty_library_title">Your Focus Queue is Empty</string>
+    <string name="empty_library_subtitle">Paste any YouTube URL in the top Omni-Bar to add it to your local distraction-free library.</string>
+</resources>

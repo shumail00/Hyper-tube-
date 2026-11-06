@@ -1,0 +1,6 @@
+{
+  "name": "HyperTube Pad",
+  "description": "Distraction-free YouTube video player and study studio for 16:10 tablets with Xiaomi HyperOS 3 UI design, ambient thumbnail glow, clipboard link detection, and timestamped study notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
